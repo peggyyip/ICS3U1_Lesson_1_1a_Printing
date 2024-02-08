@@ -21,7 +21,6 @@ class PrintingComments extends ConsoleProgram {
      * a multiline
      * comment
      */
-    
 
      // Draw a box
      System.out.println("*************");
